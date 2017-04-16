@@ -41,5 +41,4 @@ with(data1, {
       
 })
 dev.off()
-#lty = c(1,1), lwd = c(1,1),cex=0.75, bty="n", xjust=1,yjust = 1,
-#seg.len=0.5
+
