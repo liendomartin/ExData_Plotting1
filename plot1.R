@@ -1,4 +1,5 @@
 library("dplyr")
+# the dataset "Individual household electric power consumption" must be save in the working directory
 data  <- read.csv("household_power_consumption.txt", sep = ";",
                     header = TRUE , na.strings = "?",
                   )
